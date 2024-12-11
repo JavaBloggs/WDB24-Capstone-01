@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fcfcff;
+  color: #151563;
+}
+.footer {
+  font-size: 24px;
+}
+.footer div {
+  display: inline-block;
+  margin-right: 6px;
+}
+.footer img {
+  width: 24px;
+  height: 24px;
+  position:relative;
+  top: 3px;
+}
+.footer img:hover {
+  opacity: 0.5;
+}
